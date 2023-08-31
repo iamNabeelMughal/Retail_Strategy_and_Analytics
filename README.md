@@ -8,6 +8,9 @@ The supermarket's chip section is a profitable segment, and there is potential t
 To deliver actionable insights into which customer segments are most profitable and suggest recommendations based on their purchasing behavior. Furthermore, assess the success of trial store layouts and recommend whether they should be rolled out to all supermarket locations.
 
 # Solution:
+
+# -Data preparation and customer analytics
+
 # Task 1: Customer Segmentation and Purchase Behavior:
 
 Conducted a thorough analysis of transaction and customer data, ensuring data integrity by cleaning and merging datasets.
@@ -24,6 +27,8 @@ Mainstream young singles/couples spend more per transaction, with a notable pref
 # Recommendation:
 
 Strategically position popular products like Tyrells and 270g Twisties chips to cater to the mainstream young singles/couples segment. Leveraging the universal appeal of Kettles chips, positioning the mentioned brands nearby could further boost sales.
+
+# -Experimentation and uplift testing
 
 # Task 2: Impact of New Trial Layouts:
 
